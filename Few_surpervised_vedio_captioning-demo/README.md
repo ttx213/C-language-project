@@ -35,33 +35,33 @@ For training, download the VATEX dataset into the ‘video_captioning/datasets/v
 		      ├──features
 		         ├──Faster-rcnn
 		            ├──1.npy
-							  ├──2.npy
-								├──*.npy
+                            ├──2.npy
+                            ├──*.npy
 		         ├──InceptionResnetv2
-								├──1.npy
-							  ├──2.npy
-								├──*.npy
-						 ├──Resnext
-								├──1.npy
-							  ├──2.npy
-								├──*.npy
-			    ├──full_supervision
-						 ├──captions_test.json
-						 ├──captions_train.json
-						 ├──captions_val.json
-						 ├──dataset.json
-						 ├──vatex_caption_anno_test.pkl
-						 ├──vatex_caption_anno_train.pkl
-						 ├──vatex_caption_anno_val.pkl
-						 ├──vocabulary.txt
-		      ├──few_supervision
-						 ├──captions_test.json
-						 ├──captions_train.json
-						 ├──captions_val.json
-						 ├──dataset.json
-						 ├──vatex_caption_anno_test.pkl
-						 ├──vatex_caption_anno_train.pkl
-						 ├──vatex_caption_anno_val.pkl
+                            ├──1.npy
+                            ├──2.npy
+                            ├──*.npy
+                         ├──Resnext
+                            ├──1.npy
+                            ├──2.npy
+                            ├──*.npy
+                      ├──full_supervision
+                         ├──captions_test.json
+                         ├──captions_train.json
+                         ├──captions_val.json
+                         ├──dataset.json
+                         ├──vatex_caption_anno_test.pkl
+                         ├──vatex_caption_anno_train.pkl
+                         ├──vatex_caption_anno_val.pkl
+                         ├──vocabulary.txt
+                      ├──few_supervision
+                         ├──captions_test.json
+                         ├──captions_train.json
+                         ├──captions_val.json
+                         ├──dataset.json
+                         ├──vatex_caption_anno_test.pkl
+                         ├──vatex_caption_anno_train.pkl
+                         ├──vatex_caption_anno_val.pkl
 		         ├──vocabulary.txt
 ```
 
