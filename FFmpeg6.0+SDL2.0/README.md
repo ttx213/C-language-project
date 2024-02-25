@@ -1,4 +1,4 @@
-# 课程说明
+# 项目说明
 
 本课程主要提供FFmpeg6.0+SDL2的播放器入门，旨在让大家了解零声教育音视频课程。
 
@@ -20,12 +20,6 @@
 - 7-ffmpeg-player -- 7 SDL2视频画面渲染-YUV显示
 - 8-ffmpeg-player -- 8 音视频同步-基于音频
 
-
-
-# 资料说明
-
-- 手把手从零实现FFmpeg6.0+SDL2播放器.pdf  课程文档
-- 6-ffmpeg-player ~ 8-ffmpeg-player 代码目录也有对应上课演示图示
 
 
 
