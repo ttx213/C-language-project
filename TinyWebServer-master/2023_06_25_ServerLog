@@ -1,0 +1,586 @@
+2023-06-25 10:09:35.028980 [info]: timer tick
+2023-06-25 10:09:40.029206 [info]: timer tick
+2023-06-25 10:09:45.029420 [info]: timer tick
+2023-06-25 10:09:50.029642 [info]: timer tick
+2023-06-25 10:09:52.590839 [info]: deal with the client(127.0.0.1)
+2023-06-25 10:09:52.590909 [info]: adjust timer once
+2023-06-25 10:09:58.473125 [info]: timer tick
+2023-06-25 10:10:48.094013 [info]: timer tick
+2023-06-25 10:11:00.121204 [info]: GET / HTTP/1.1
+2023-06-25 10:11:00.121313 [info]: timer tick
+2023-06-25 10:11:00.121374 [info]: deal with the client(127.0.0.1)
+2023-06-25 10:11:00.121394 [info]: adjust timer once
+2023-06-25 10:11:40.227327 [info]: timer tick
+2023-06-25 10:11:40.227963 [info]: deal with the client(127.0.0.1)
+2023-06-25 10:11:40.228015 [info]: adjust timer once
+2023-06-25 10:12:55.395817 [info]: timer tick
+2023-06-25 10:12:55.396609 [info]: deal with the client(127.0.0.1)
+2023-06-25 10:12:55.396658 [info]: adjust timer once
+2023-06-25 10:13:05.469660 [info]: timer tick
+2023-06-25 10:13:11.304947 [info]: timer tick
+2023-06-25 10:13:19.834456 [info]: deal with the client(127.0.0.1)
+2023-06-25 10:13:19.834532 [info]: adjust timer once
+2023-06-25 10:13:19.834560 [info]: timer tick
+2023-06-25 10:13:24.292769 [info]: request:HTTP/1.1 404 Not Found
+
+2023-06-25 10:13:24.292858 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+
+2023-06-25 10:13:24.292880 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+2023-06-25 10:13:24.292893 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+
+2023-06-25 10:13:24.292905 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+
+2023-06-25 10:13:24.293046 [info]: close fd 16
+2023-06-25 10:13:27.381918 [info]: timer tick
+2023-06-25 10:13:36.891179 [info]: GET / HTTP/1.1
+2023-06-25 10:13:36.891242 [info]: timer tick
+2023-06-25 10:13:47.796867 [info]: timer tick
+2023-06-25 10:14:01.918425 [info]: timer tick
+2023-06-25 10:14:10.034059 [info]: timer tick
+2023-06-25 10:14:20.300035 [info]: timer tick
+2023-06-25 10:14:27.336855 [info]: timer tick
+2023-06-25 10:14:35.016904 [info]: timer tick
+2023-06-25 10:15:03.669610 [info]: timer tick
+2023-06-25 10:15:12.888841 [info]: timer tick
+2023-06-25 10:15:22.911879 [info]: timer tick
+2023-06-25 10:15:32.716232 [info]: timer tick
+2023-06-25 10:15:38.732161 [info]: timer tick
+2023-06-25 10:15:44.028027 [info]: timer tick
+2023-06-25 10:16:08.283480 [info]: Host: localhost:9012
+2023-06-25 10:16:08.283571 [info]: timer tick
+2023-06-25 10:16:08.283632 [info]: deal with the client(127.0.0.1)
+2023-06-25 10:16:08.283652 [info]: adjust timer once
+2023-06-25 10:16:32.469289 [info]: timer tick
+2023-06-25 10:16:32.470004 [info]: deal with the client(127.0.0.1)
+2023-06-25 10:16:32.470056 [info]: adjust timer once
+2023-06-25 10:16:35.001940 [info]: request:HTTP/1.1 404 Not Found
+
+2023-06-25 10:16:35.002005 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+
+2023-06-25 10:16:35.002023 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+2023-06-25 10:16:35.002037 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+
+2023-06-25 10:16:35.002049 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+
+2023-06-25 10:16:35.002216 [info]: close fd 16
+2023-06-25 10:16:38.161870 [info]: timer tick
+2023-06-25 10:16:38.162859 [info]: GET /favicon.ico
+2023-06-25 10:16:46.434750 [info]: timer tick
+2023-06-25 10:43:23.018512 [info]: timer tick
+2023-06-25 10:43:33.528141 [info]: timer tick
+2023-06-25 10:43:39.223759 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+
+2023-06-25 10:43:39.223791 [info]: timer tick
+2023-06-25 10:43:39.223830 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+
+2023-06-25 10:43:39.223891 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+2023-06-25 10:43:39.223935 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+
+2023-06-25 10:43:39.223957 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+
+2023-06-25 10:43:43.546822 [info]: Host: localhost:9012
+2023-06-25 10:43:46.048328 [info]: timer tick
+2023-06-25 10:48:32.387900 [info]: timer tick
+2023-06-25 10:48:48.550729 [info]: timer tick
+2023-06-25 10:49:17.753322 [info]: timer tick
+2023-06-25 10:49:29.499452 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+
+2023-06-25 10:49:29.499493 [info]: timer tick
+2023-06-25 10:49:29.499501 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+
+2023-06-25 10:49:29.499587 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+2023-06-25 10:49:29.499594 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+
+2023-06-25 10:49:29.499599 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+
+2023-06-25 10:49:47.111417 [info]: timer tick
+2023-06-25 10:50:26.808192 [info]: timer tick
+2023-06-25 10:50:26.809213 [info]: User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:88.0) Gecko/20100101 Firefox/88.0
+2023-06-25 10:50:30.111811 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+
+2023-06-25 10:50:30.111877 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+
+2023-06-25 10:50:30.111902 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+2023-06-25 10:50:30.111940 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+
+2023-06-25 10:50:30.111962 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+
+2023-06-25 10:50:33.086547 [info]: Accept: image/webp,*/*
+2023-06-25 10:50:33.086610 [info]: timer tick
+2023-06-25 10:50:33.086620 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+
+2023-06-25 10:50:33.086706 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+
+2023-06-25 10:50:33.086730 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+2023-06-25 10:50:33.086752 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+
+2023-06-25 10:50:33.086773 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+
+2023-06-25 10:50:33.086805 [info]: Accept-Language: en-US,en;q=0.5
+2023-06-25 10:50:33.086826 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+
+2023-06-25 10:50:33.086867 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+
+2023-06-25 10:50:33.086891 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+2023-06-25 10:50:33.086912 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+
+2023-06-25 10:50:33.086933 [info]: request:HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+HTTP/1.1 404 Not Found
+Content-Length:49
+Connection:close
+
+The requested file was not found on this server.
+
+2023-06-25 10:50:38.086873 [info]: timer tick
+2023-06-25 10:50:42.823281 [info]: deal with the client(127.0.0.1)
+2023-06-25 10:50:42.823351 [info]: adjust timer once
+2023-06-25 10:50:42.823372 [info]: GET / HTTP/1.1
+2023-06-25 10:50:42.823435 [info]: Host: localhost:9012
+2023-06-25 10:50:56.658325 [info]: timer tick
