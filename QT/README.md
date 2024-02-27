@@ -21,6 +21,9 @@
 ```
 客户端界面
 <p align="center">
-<img src="qualitative_results_vatex.png" width="800"> <br>
+<img src="Client.png" width="800"> <br>
 </p>
 服务端界面
+<p align="center">
+<img src="Server.png" width="800"> <br>
+</p>
